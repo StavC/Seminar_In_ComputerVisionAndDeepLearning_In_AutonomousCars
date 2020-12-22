@@ -4,7 +4,7 @@ I have made this Seminar as part of my Computer Science degree program at the Op
 
 In this Seminar i reviewed the Deep Learning world from scratch so even someone that is new to the field can have a go and learn more about the world of deep learning.
 
-i reviewed very interesting topics in the thoery and concepts of Deep Learning and Computer Vision.
+i reviewed very interesting topics in the theory and concepts of Deep Learning and Computer Vision.
 
 analyzed different computer vision systems that are used in Autonomous Cars.
 
